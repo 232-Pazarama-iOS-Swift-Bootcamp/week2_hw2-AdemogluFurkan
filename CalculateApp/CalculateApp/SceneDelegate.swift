@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  CalculaterApp
+//  CalculateApp
 //
-//  Created by Furkan Ademoğlu on 27.09.2022.
+//  Created by Furkan Ademoğlu on 30.09.2022.
 //
 
 import UIKit
